@@ -9,11 +9,11 @@
     <style>
         body {
                 padding-top: 50px;
-    			background-color: lightgoldenrodyellow
+    			background-color: black
         }
         .stater-template {
                 padding: 40px 15px;
-                background-color: white;
+                background-color: black;
         }
     </style>
     </head>
